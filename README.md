@@ -28,8 +28,6 @@
 - [Configuration](#configuration)
 - [API Documentation](#api-documentation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
